@@ -1,4 +1,4 @@
-# cmsc320
+# CMSC320 - Final Tutorial 
 Introduction
 Through this project, we are aiming to use fetal health data to understand and classify the health of a fetus as Normal, Suspect or Pathological We are doing this using CTG (Cardiotocogram) data.
 
