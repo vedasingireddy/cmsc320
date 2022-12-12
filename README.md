@@ -1,5 +1,5 @@
 # CMSC320 - Final Tutorial 
-Introduction
+##Introduction
 Through this project, we are aiming to use fetal health data to understand and classify the health of a fetus as Normal, Suspect or Pathological We are doing this using CTG (Cardiotocogram) data.
 
 Classificaton of fetal health into these three criteria is of utmost importance as this helps reduce child and maternal mortality. As per The United Nations' Sustainable Development Goals, reduction of child mortality is a key indicator of human progress. The SDGs seek massive reductions in mortality ralte, and aim to have a a neonatal mortality rate of 12 or fewer deaths per 1,000 live births, and an under-five mortality rate of 25 or fewer deaths per 1,000 live births, by 2030. However, more than 5 million children died before their fifth birthday in 2020.
